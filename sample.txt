@@ -1,2 +1,4 @@
 Sample in git 1
 sample in git 2nd line
+
+sample in git2
